@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neptuno_project", "neptuno_project\neptuno_project.csproj", "{38D3A754-F8A1-4D8D-ACD4-40E5F10FE00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D3A754-F8A1-4D8D-ACD4-40E5F10FE00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D3A754-F8A1-4D8D-ACD4-40E5F10FE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D3A754-F8A1-4D8D-ACD4-40E5F10FE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D3A754-F8A1-4D8D-ACD4-40E5F10FE00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DEE818-D99E-4844-96EA-9E311B6F1BD2}
+	EndGlobalSection
+EndGlobal
